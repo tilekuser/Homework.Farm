@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Homework\\Farm\\Farm\\Farm.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\dwww\\Homework.Farm\\Farm\\Farm\\Farm.csproj",
       "projectName": "Farm",
-      "projectPath": "C:\\Users\\User\\Desktop\\Homework\\Farm\\Farm\\Farm.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\dwww\\Homework.Farm\\Farm\\Farm\\Farm.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Homework\\Farm\\Farm\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\dwww\\Homework.Farm\\Farm\\Farm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
