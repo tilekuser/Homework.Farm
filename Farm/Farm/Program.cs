@@ -9,6 +9,7 @@ namespace Farm
         {
             var s = new Farmm("Happy farm", "Bishkek city, street Ankara 2");
             s.AddAny();
+            s.AddCow();
    
         }
     }
