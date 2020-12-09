@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1H4KjmkLb0gU+fPDVR9kDvXpImI5w4RNdM5tYqqEphcZ2nR+x/bYS4ZW8dpEWdfjyaHD4/gPwYNIp/rcFLgHaA==",
+  "dgSpecHash": "ofKQND5ueGjJch6ZCdPPP7Fr9bP0AAWsgugftSQgWmteOm9AO/8+nBxWk+HzD2JsmcwcETsAE9+4EIsahUy8zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\dwww\\Homework.Farm\\Farm\\Farm\\Farm.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\Homework.Farm\\Farm\\Farm\\Farm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
